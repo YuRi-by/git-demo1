@@ -1,5 +1,8 @@
-1 َِّْيـ 1 ي�ًُمْـ
+﻿1 َِّْيـ 1 ي�ًُمْـ
 2 َِّْيـ 1 ي�ًُمْـ
 
 1 stroka 2 kupleta
 2 stroka 2 kupleta
+
+
+stroka1 for feature
