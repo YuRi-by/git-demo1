@@ -6,3 +6,4 @@
 
 
 stroka1 for feature
+stroka2 for feature
